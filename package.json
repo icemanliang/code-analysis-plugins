@@ -1,0 +1,17 @@
+{
+  "name": "code-analysis-plugins",
+  "version": "1.0.1",
+  "description": "code analysis plugins",
+  "main": "./index.js",
+  "module": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangxin199045/code-analysis-plugins"
+  },
+  "author": "734099485@qq.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 4.0.0"
+  }
+}

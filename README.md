@@ -1,5 +1,5 @@
 # code-analysis-plugins
-plugins for code-analysis-ts
+[code-analysis-plugins](https://www.npmjs.com/package/code-analysis-plugins)，是一个代码分析插件包。
 
 plugins list:
 
